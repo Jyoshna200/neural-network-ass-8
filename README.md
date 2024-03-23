@@ -1,1 +1,3 @@
 # neural-network-ass-8
+JYOSHNA YARRAGUNTLA
+STUDENT ID:700758848
